@@ -23,6 +23,8 @@ url: "https://amis-webdev.github.io" # the base hostname & protocol for your sit
 github_username:  amis-webdev
 # repository: amis-webdev/amis-webdev.github.io
 
+permalink: pretty
+
 # Build settings
 markdown: kramdown
 # theme: minima
