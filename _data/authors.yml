@@ -1,0 +1,12 @@
+paco:
+    name: Paco van der Linden
+    email: paco.van.der.linden@amis.nl
+    twitter: https://twitter.com/pavadeli
+    github: https://github.com/pavadeli
+    bio: Software engineer with an interest in amazing and performant UI's, distributed systems and robotics. Graduated with a masters degree in Computer Science and Engineering, focusing on Information Security Technology (i.e. a lot of mathematics, cryptographic algorithms and protocols, secure coding and such). I focus on web application development, using the latest front-end technologies, e.g. WebComponents/Polymer, AngularJS, etc. Because of AMIS's long history with Oracle technology (almost exclusively), my speciality has become creating user-friendly interfaces on top of complex enterprise systems.
+cindy:
+    name: Cindy Berghuizen
+    email: cindy.berghuizen@amis.nl
+    twitter: https://twitter.com/CindyBergh
+    github: https://github.com/Keepertje
+    bio: Cindy studied Software Engineering in Amsterdam. After university she starting working as an ADF developer at AMIS. Then webdevelopment happened and has since been the main focus. When not coding she is stopping balls as a goalkeeper.
